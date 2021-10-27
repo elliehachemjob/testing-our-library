@@ -9346,10 +9346,10 @@
     "regenerator-runtime" "^0.13.7"
     "whatwg-fetch" "^3.4.1"
 
-"react-customer-support@0.1.4":
-  "integrity" "sha512-TgO6NzjieMuOgKd3+CRC82OykqxGiYU2A9H2p+lGw0nsXzukFJrFAGQ0f0mgi21jNyjO9Y+qWQFNGhfcxljSVw=="
-  "resolved" "https://registry.npmjs.org/react-customer-support/-/react-customer-support-0.1.4.tgz"
-  "version" "0.1.4"
+"react-customer-support@^0.1.10":
+  "integrity" "sha512-//hwteEajQIF/zj+Gy7g2NYVSoWdZuad5jQAkI2IWwW2KkpLC7wONa9c66yJbCOEjAyG9YsheaHELTcCgb90Fg=="
+  "resolved" "https://registry.npmjs.org/react-customer-support/-/react-customer-support-0.1.10.tgz"
+  "version" "0.1.10"
 
 "react-dev-utils@^11.0.3":
   "integrity" "sha512-dx0LvIGHcOPtKbeiSUM4jqpBl3TcY7CDjZdfOIcKeznE7BWr9dg0iPG90G5yfVQ+p/rGNMXdbfStvzQZEVEi4A=="
