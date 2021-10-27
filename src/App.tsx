@@ -10,6 +10,8 @@ function App() {
   const [password, setPassword] = useState<string>("");
   const loginHandler = () => {
     console.log("hey");
+    console.log(`password ${password}`);
+    console.log(`email ${user}`);
   };
 
   return (
@@ -24,6 +26,7 @@ function App() {
         password={password}
         setPassword={setPassword}
         loginHandler={loginHandler}
+        title="Custom Title Of Ellie"
       />
     </div>
   );
